@@ -1,0 +1,20 @@
+{
+    "mata_kuliah": [
+        {
+            "kode_mk": "SE3023",
+            "nama_mk": "Konstruksi Perangkat Lunak"
+        },
+        {
+            "kode_mk": "CS2013",
+            "nama_mk": "Basis Data"
+        },
+        {
+            "kode_mk": "PR2023",
+            "nama_mk": "Proyek Tingkat 2"
+        },
+        {
+            "kode_mk": "CS3013",
+            "nama_mk": "Kecerdasan Buatan"
+        }
+    ]
+}
